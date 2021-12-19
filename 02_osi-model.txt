@@ -1,0 +1,28 @@
+osi is a refferance model which help us to understand when a connecton happen between 2 diffrance devices.
+
+seven layers of OSI model :-
+
+7. Application Layer 
+6. Presentation Layer
+5. Session Layer
+4. Transport Layer 
+3. Network Layer 
+2. Datalink Layer 
+1. Physcal Layer 
+
+| all layers defnations | 
++-----------------------+
+
+1. define how bits move from one devic to another ( how to send and reviced bits ).
+
+2. encapsulates a packet in a frame and  (add source and destination address).
+
+3. logical addressing, path determination, routing,  
+
+4. control the reliablity of connection through :-
+         
+  	a. Segmentation 
+	b. Flow control
+	c. error control / checksum
+
+5.
