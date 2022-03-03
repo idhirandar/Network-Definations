@@ -1,4 +1,4 @@
-osi is a refferance model which help us to understand when a connecton happen between 2 diffrance devices.
+OSI model is a refferance model which provide a framework to understand how devices are connected on a TCP/Ip Network.
 
 seven layers of OSI model :-
 
@@ -10,7 +10,7 @@ seven layers of OSI model :-
 2. Datalink Layer 
 1. Physcal Layer 
 
-| all layers defnations | 
+| all layers definations | 
 +-----------------------+
 
 1. define how bits move from one devic to another ( how to send and reviced bits ).
@@ -25,4 +25,11 @@ seven layers of OSI model :-
 	b. Flow control
 	c. error control / checksum
 
-5.
+5. defines how to establish and terminate a session between the two systems.
+
+6. defines data formats. Compression and encryption are defined at this layer.
+
+7. this layer is the closest to the user. It enables network applications to communicate with other network applications.
+
+
+osi is a refferance model which help us to understand when a connecton happen between 2 diffrance devices how .
